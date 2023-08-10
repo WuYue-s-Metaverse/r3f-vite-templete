@@ -1,9 +1,9 @@
-# r3f-vite-starter
-A boilerplate to build R3F projects
+# r3f-vite-templete
+创建r3f项目的模版
 
 ```
-yarn
-yarn dev
+pnpm install
+pnpm run dev
 ```
 
 
